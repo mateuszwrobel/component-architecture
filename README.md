@@ -11,7 +11,9 @@ Those types of components can be also called Views Components.
 ### Container Components
 ### Presentational Components
 ### Smart Components
+![obraz](images/smart-component.png)
 ### Dumb Components
+![obraz](images/dumb-component.png)
 ### Stateful Components
 ### Stateless Components
 ### Compound Components
